@@ -2,7 +2,7 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
 Eliza Yasunari Urbina Gómez [22211768]; l22211768@tectijuana.edu.mx
 
