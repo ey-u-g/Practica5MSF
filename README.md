@@ -4,7 +4,7 @@
 
 ## Información del estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Eliza Yasunari Urbina Gómez [22211768]; l22211768@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
